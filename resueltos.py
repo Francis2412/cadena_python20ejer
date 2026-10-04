@@ -1,5 +1,6 @@
 def normalizar_unNombre():
-    #Recibe un nombre con espacios innecesarios y mezcla de mayúsculas/minúsculas. Limpia los extremos y presenta el nombre en formato título.
+    #Recibe un nombre con espacios innecesarios y mezcla de mayúsculas/minúsculas.
+    #Limpia los extremos y presenta el nombre en formato título.
     print 
 
 

@@ -3,5 +3,6 @@ def registro_confi():
     print
 
 def limpiezaResumen_etiquitas():
-    #Recibe etiquetas separadas por comas, elimina espacios, normaliza a minúsculas, elimina repetidos y produce una cadena ordenada separada por ' | '.
+    #Recibe etiquetas separadas por comas, elimina espacios, normaliza a minúsculas,
+    #elimina repetidos y produce una cadena ordenada separada por ' | '.
     print
